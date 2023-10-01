@@ -15,6 +15,6 @@
 <br>
 
 ### Donation
-[![Buy Me A Coffee! ☕️](https://www.buymeacoffee.com/nikhilskanda)]
+[Buy Me A Coffee! ☕️](https://www.buymeacoffee.com/nikhilskanda)
 
 <p> Thanks For Checking My Page!! </p>
