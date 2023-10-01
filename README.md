@@ -16,5 +16,5 @@
 
 ### Donation
 [Buy Me A Coffee! ☕️](https://www.buymeacoffee.com/nikhilskanda)
-[Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements)
+
 <p> Thanks For Checking My Page!! </p>
