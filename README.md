@@ -1,9 +1,11 @@
-### **I'M <** NIKHIL**>
+### Hey There, I'm NIKHIL
 
 <p align="center">
 </p>
 
-- I'm Learning Git & Github
+<p> I'm A Student Based In Bengaluru, Who's Interested In Learning Coding!! :) </p>
+
+- I'm Learning Git & Python
 - I Like To Learn New Things
 
 ### Contact
@@ -12,8 +14,7 @@
 [![ʏᴏᴜᴛᴜʙᴇ](https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/@NikhilSkandaOfficial) 
 <br>
 
-<details>	
- I'm A Student Based In Bengaluru, Who's Interested In Learning Coding!! :)
-</details>
+### Donation
+[![Buy Me A Coffee! ☕️](https://www.buymeacoffee.com/nikhilskanda)]
 
 <p> Thanks For Checking My Page!! </p>
