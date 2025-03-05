@@ -3,10 +3,12 @@
 <p align="center">
 </p>
 
-<p> I'm A Student Based In Bengaluru, Who's Interested In Learning Coding!! :) </p>
+<p> a lad, who's interested in learning coding and ui/ux design! :) </p>
 
 - I'm Learning Git & Python
-- I Like To Learn New Things
+- Learning FIGMA
+- Learning Adobe Photoshop
+- Learning Davinci Resolve
 
 ### Contact
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/damnitsnikhil) 
