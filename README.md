@@ -1,4 +1,4 @@
-### Hey There, I'm NIKHIL
+### Hey There, I'm nikhil
 
 <p align="center">
 </p>
