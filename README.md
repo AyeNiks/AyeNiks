@@ -12,7 +12,7 @@
 
 ### Contact
 [![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/damnitsnikhil) 
-<br><br>
+<br>
 
 ### Donation
 [Buy Me A Coffee! ☕️](https://www.buymeacoffee.com/nikhilskanda)
