@@ -5,7 +5,7 @@
 
 <p> a lad, who's interested in learning coding and ui/ux design! :) </p>
 
-- I'm Learning Git & Python
+- Learning Git & Python
 - Learning FIGMA
 - Learning Adobe Photoshop
 - Learning Davinci Resolve
